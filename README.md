@@ -27,10 +27,10 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F61?style=for-the-badge)
 ![SGLang](https://img.shields.io/badge/SGLang-6F42C1?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,12 +63,5 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 **Generative AI Engineer**: Scalence LLC — Mountain View, CA
 **Software Engineer Intern**: Gen Digital Inc — Mountain View, CA & Tempe, AZ
 **Data Scientist II**: Mercedes-Benz R&D — Bangalore, India
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Yashaswiniramashesh&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswiniramashesh&layout=compact&theme=radical&hide_border=true)
 
 ---
