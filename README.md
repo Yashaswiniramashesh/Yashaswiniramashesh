@@ -1,7 +1,5 @@
 ## 🙋‍♀️ I'm Yashaswini Ramashesh
 
-[![Typing GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)](https://github.com/Yashaswiniramashesh)
-
 ### About Me
 
 I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Computer Science Engineer pursuing my **Master's at Arizona State University**, currently based in Santa Clara, CA. My work spans building **Multi-stage RAG and agentic systems, synthetic data generation, agent evaluation harnesses, parameter-efficient fine-tuning (LoRA/PEFT), and transformer models trained from scratch**. I am instrested inworking on NLP, RL, applied ML, CV and anything that brings impact through technology.
@@ -53,28 +51,24 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 
 ### 📌 Notable Projects
 
-| Project | Description |
-|---|---|
-| [**terminal-agent-rl-bench**](https://github.com/Yashaswiniramashesh/terminal-agent-rl-bench) | End-to-end RL benchmarking pipeline for LLM coding agents — synthetic task generation, Docker-sandboxed execution, and LLM-as-a-Judge evaluation on the Terminal-Bench 2.0 format |
-| [**Small-GPT-from-scratch**](https://github.com/Yashaswiniramashesh/Small-GPT-from-scratch) | 20M parameter GPT-2 transformer built with JAX/Flax (NNX), featuring Grain data loading, Optax warmup-cosine optimization, and Orbax checkpointing |
-| [**LoRA-Fine-tuned-BERT-for-Emotion-Classification**](https://github.com/Yashaswiniramashesh/LoRA-Fine-tuned-BERT-for-Emotion-Classification) | Emotion classification via parameter-efficient fine-tuning (LoRA) of BERT-base-uncased |
-| [**Data-Preprocessing-using-AI-Agents**](https://github.com/Yashaswiniramashesh/Data-Preprocessing-using-AI-Agents) | Autonomous LangGraph agent that plans and dynamically generates/executes Pandas code to preprocess datasets |
-| [**Music-Mood-Analysis**](https://github.com/Yashaswiniramashesh/Music-Mood-Analysis) | NLP pipeline classifying song lyric mood at up to 94% accuracy using TF-IDF, n-grams, and Sentence-BERT |
-| [**Text-Classifier**](https://github.com/Yashaswiniramashesh/Text-Classifier) | News article classifier across 5 categories using Count Vectorization, TF-IDF, and neural networks |
+[**terminal-agent-rl-bench**](https://github.com/Yashaswiniramashesh/terminal-agent-rl-bench): End-to-end RL benchmarking pipeline for LLM coding agents — synthetic task generation, Docker-sandboxed execution, and LLM-as-a-Judge evaluation on the Terminal-Bench 2.0 format 
+[**Small-GPT-from-scratch**](https://github.com/Yashaswiniramashesh/Small-GPT-from-scratch): 20M parameter GPT-2 transformer built with JAX/Flax (NNX), featuring Grain data loading, Optax warmup-cosine optimization, and Orbax checkpointing
+[**LoRA-Fine-tuned-BERT-for-Emotion-Classification**](https://github.com/Yashaswiniramashesh/LoRA-Fine-tuned-BERT-for-Emotion-Classification): Emotion classification via parameter-efficient fine-tuning (LoRA) of BERT-base-uncased
+[**Data-Preprocessing-using-AI-Agents**](https://github.com/Yashaswiniramashesh/Data-Preprocessing-using-AI-Agents) : Autonomous LangGraph agent that plans and dynamically generates/executes Pandas code to preprocess datasets
+[**Music-Mood-Analysis**](https://github.com/Yashaswiniramashesh/Music-Mood-Analysis): NLP pipeline classifying song lyric mood at up to 94% accuracy using TF-IDF, n-grams, and Sentence-BERT
+[**Text-Classifier**](https://github.com/Yashaswiniramashesh/Text-Classifier): News article classifier across 5 categories using Count Vectorization, TF-IDF, and neural networks
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-|---|---|---|
-| **Generative AI Engineer** | Scalence LLC — Mountain View, CA | Jun 2025 – Present |
-| **Software Engineer Intern** | Gen Digital Inc — Mountain View, CA & Tempe, AZ | Jun 2024 – May 2025 |
-| **Data Scientist II** | Mercedes-Benz R&D — Bangalore, India | Jun 2021 – Aug 2023 |
+**Generative AI Engineer**: Scalence LLC — Mountain View, CA
+**Software Engineer Intern**: Gen Digital Inc — Mountain View, CA & Tempe, AZ
+**Data Scientist II**: Mercedes-Benz R&D — Bangalore, India
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yashaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashaswiniramashesh&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Yashaswiniramashesh&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswiniramashesh&layout=compact&theme=radical&hide_border=true)
 
 ---
