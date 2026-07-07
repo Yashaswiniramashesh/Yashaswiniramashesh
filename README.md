@@ -51,17 +51,17 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 
 ### 📌 Notable Projects
 
-[**terminal-agent-rl-bench**](https://github.com/Yashaswiniramashesh/terminal-agent-rl-bench): End-to-end RL benchmarking pipeline for LLM coding agents — synthetic task generation, Docker-sandboxed execution, and LLM-as-a-Judge evaluation on the Terminal-Bench 2.0 format 
-[**Small-GPT-from-scratch**](https://github.com/Yashaswiniramashesh/Small-GPT-from-scratch): 20M parameter GPT-2 transformer built with JAX/Flax (NNX), featuring Grain data loading, Optax warmup-cosine optimization, and Orbax checkpointing
-[**LoRA-Fine-tuned-BERT-for-Emotion-Classification**](https://github.com/Yashaswiniramashesh/LoRA-Fine-tuned-BERT-for-Emotion-Classification): Emotion classification via parameter-efficient fine-tuning (LoRA) of BERT-base-uncased
-[**Data-Preprocessing-using-AI-Agents**](https://github.com/Yashaswiniramashesh/Data-Preprocessing-using-AI-Agents) : Autonomous LangGraph agent that plans and dynamically generates/executes Pandas code to preprocess datasets
-[**Music-Mood-Analysis**](https://github.com/Yashaswiniramashesh/Music-Mood-Analysis): NLP pipeline classifying song lyric mood at up to 94% accuracy using TF-IDF, n-grams, and Sentence-BERT
-[**Text-Classifier**](https://github.com/Yashaswiniramashesh/Text-Classifier): News article classifier across 5 categories using Count Vectorization, TF-IDF, and neural networks
+[**terminal-agent-rl-bench**](https://github.com/Yashaswiniramashesh/terminal-agent-rl-bench): End-to-end RL benchmarking pipeline for LLM coding agents — synthetic task generation, Docker-sandboxed execution, and LLM-as-a-Judge evaluation on the Terminal-Bench 2.0 format         
+[**Small-GPT-from-scratch**](https://github.com/Yashaswiniramashesh/Small-GPT-from-scratch): 20M parameter GPT-2 transformer built with JAX/Flax (NNX), featuring Grain data loading, Optax warmup-cosine optimization, and Orbax checkpointing        
+[**LoRA-Fine-tuned-BERT-for-Emotion-Classification**](https://github.com/Yashaswiniramashesh/LoRA-Fine-tuned-BERT-for-Emotion-Classification): Emotion classification via parameter-efficient fine-tuning (LoRA) of BERT-base-uncased       
+[**Data-Preprocessing-using-AI-Agents**](https://github.com/Yashaswiniramashesh/Data-Preprocessing-using-AI-Agents) : Autonomous LangGraph agent that plans and dynamically generates/executes Pandas code to preprocess datasets        
+[**Music-Mood-Analysis**](https://github.com/Yashaswiniramashesh/Music-Mood-Analysis): NLP pipeline classifying song lyric mood at up to 94% accuracy using TF-IDF, n-grams, and Sentence-BERT      
+[**Text-Classifier**](https://github.com/Yashaswiniramashesh/Text-Classifier): News article classifier across 5 categories using Count Vectorization, TF-IDF, and neural networks       
 
 ## 💼 Experience
 
-**Generative AI Engineer**: Scalence LLC — Mountain View, CA
-**Software Engineer Intern**: Gen Digital Inc — Mountain View, CA & Tempe, AZ
-**Data Scientist II**: Mercedes-Benz R&D — Bangalore, India
+**Generative AI Engineer**: Scalence LLC — Mountain View, CA     
+**Software Engineer Intern**: Gen Digital Inc — Mountain View, CA & Tempe, AZ      
+**Data Scientist II**: Mercedes-Benz R&D — Bangalore, India     
 
 ---
