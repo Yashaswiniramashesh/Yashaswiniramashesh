@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Computer Science Engineer pursuing my **Master's at Arizona State University**, currently based in Santa Clara, CA. My work spans building **Multi-stage RAG and agentic systems, synthetic data generation, agent evaluation harnesses, parameter-efficient fine-tuning (LoRA/PEFT), and transformer models trained from scratch**. I am instrested inworking on NLP, RL, applied ML, CV and anything that brings impact through technology.
+I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Computer Science Engineer pursuing my **Master's at Arizona State University**, currently based in Santa Clara, CA. My work spans building **Multi-stage RAG and agentic systems, synthetic data generation pipelines, agent evaluation harnesses, parameter-efficient fine-tuning (LoRA/PEFT), and transformer models trained from scratch**. I am instrested inworking on NLP, RL, applied ML, CV and anything that brings impact through technology.
 
 ### What I'm Building
 
