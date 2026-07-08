@@ -48,6 +48,7 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 - 📫 Reach me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yr18/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashaswini.r.bharadwaj@gmail.com)
 
 ### 📌 Notable Projects
 
@@ -65,3 +66,4 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 **Data Scientist II**: Mercedes-Benz R&D — Bangalore, India     
 
 ---
+<p><img src="https://komarev.com/ghpvc/?username=Yashaswiniramashesh&label=Profile%20views&color=0e75b6&style=flat" alt="Yashaswini Ramashesh" /></p>
