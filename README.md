@@ -2,12 +2,12 @@
 
 ### About Me
 
-I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Computer Science Engineer pursuing my **Master's at Arizona State University**, currently based in Santa Clara, CA. My work spans building **Multi-stage RAG and agentic systems, synthetic data generation pipelines, agent evaluation harnesses, parameter-efficient fine-tuning (LoRA/PEFT), and transformer models trained from scratch**. I am instrested inworking on NLP, RL, applied ML, CV and anything that brings impact through technology.
+I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Computer Science Engineer with  **Master's at Arizona State University**, currently based in Santa Clara, CA. My work spans building **Multi-stage RAG and agentic systems, synthetic data generation pipelines, agent evaluation harnesses, Pre-training and Post Training LLMS, parameter-efficient fine-tuning (LoRA/PEFT), RLHF(PPO/GRPO) pipelines, and transformer models trained from scratch**. I am instrested inworking on NLP, RL, applied ML, CV and anything that brings impact through technology.
 
 ### What I'm Building
 
 - 🧪 **Agent RL Benchmarks** — synthetic task generation compliant with Terminal-Bench 2.0, Docker-sandboxed agent execution, and LLM-as-a-Judge evaluation with reliability analysis
-- 🧠 **Transformers from Scratch** — a 20M parameter GPT-2 built with JAX/Flax (NNX) for XLA acceleration, complete with a custom data + optimization + checkpointing pipeline
+- 🧠 **Transformers from Pretraining** — a 20M parameter GPT-2 built with JAX/Flax (NNX) for XLA acceleration, complete with a custom data + optimization + checkpointing pipeline
 - 🎯 **Parameter-Efficient Fine-Tuning** — LoRA-adapted BERT models for emotion and sentiment classification
 - 🤖 **Autonomous Agents** — LangGraph-based agents that plan and self-generate Pandas code for automated data preprocessing
 - 🎵 **Applied NLP** — mood/sentiment classifiers using TF-IDF, n-grams, and Sentence-BERT, hitting up to 94% accuracy
@@ -66,4 +66,3 @@ I'm **[Yashaswini Ramashesh](https://github.com/Yashaswiniramashesh)**, a Comput
 **Data Scientist II**: Mercedes-Benz R&D — Bangalore, India     
 
 ---
-<p><img src="https://komarev.com/ghpvc/?username=Yashaswiniramashesh&label=Profile%20views&color=0e75b6&style=flat" alt="Yashaswini Ramashesh" /></p>
